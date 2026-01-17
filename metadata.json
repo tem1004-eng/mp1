@@ -1,0 +1,8 @@
+
+{
+  "name": "Gemini Score Player",
+  "description": "An AI-powered sheet music analyzer and performer. Upload a score to have Gemini analyze the notes, chords, rhythm, and lyrics, then play it back using high-quality instruments and vocals.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
